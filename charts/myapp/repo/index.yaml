@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    created: "2024-02-02T11:06:40.4782368+09:00"
+    digest: 3595879989890dc52d71daa2e0a5200462c2f852039608751731a5dffa8e034e
+    name: myapp
+    urls:
+    - myapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-02T11:06:40.4776562+09:00"
