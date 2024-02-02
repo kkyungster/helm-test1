@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    created: "2024-02-02T02:47:19.757195651Z"
+    digest: 6e8bdd6748e3cc8e59a9d57f65d2f03e8436a2d7d083620ab450cff872806ca7
+    name: myapp
+    urls:
+    - https://kkyungster.github.io/helm-test1/myapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-02T02:47:19.756800803Z"
